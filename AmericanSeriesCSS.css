@@ -1,0 +1,106 @@
+
+aside
+{
+	background: #FFF;
+	border-bottom-left-radius: 0.5em;
+	border-bottom-right-radius: 0.5em;
+	display: inline-block;
+	margin: 0px 0px 0px 870px;	
+}
+
+
+body
+{
+	background: #FFF;
+	font-family: "Arial";
+	font-size: 16px;
+}
+
+footer
+{
+	background: #B22222;
+	border-top-left-radius: 1em;
+	border-top-right-radius: 1em;
+	color: rgba(255,255,255,0.7);
+	margin-top: 230px;
+	padding-bottom: 10px;
+	position: relative;
+	text-align: center;
+
+}
+
+header
+{
+	background: #343b54;
+	box-shadow: rgba(0,0,0,0.5) 5px 5px 20px;
+	color: white;
+	padding: 0.5em;
+	text-align: center;	
+}
+
+
+nav
+{
+	background: #B22222;
+	border-bottom-left-radius: 1em;
+	border-bottom-right-radius: 1em;
+	padding: 5px 0px 5px 0px;
+	text-align: center;
+}
+
+nav ul li 
+{
+	display: inline-block;
+	font-weight: bold;
+	margin-left: 20px;
+	text-decoration: none;
+}
+
+nav ul li a
+{
+	color: white;
+	text-decoration: none;
+	text-shadow: 1px 1px 1px gray;
+}
+
+section
+{
+	position: absolute;
+}
+
+
+
+
+table
+{
+	border-color: #343b54;
+	border: none;
+	margin-top: 10px;
+	
+}
+
+table tr td 
+{
+	border:none;
+	padding: 10px, 10px, 10px, 10px;
+}
+table tr td img
+{
+	margin: 0.5em;
+}
+
+#Title_Top
+{
+	background: #343b54;
+	border-bottom-left-radius: 0.5em;
+	border-bottom-right-radius: 0.5em;
+	color: white;
+}
+
+.Radio
+{
+	display: block;
+}
+
+
+
